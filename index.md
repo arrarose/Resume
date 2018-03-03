@@ -1,6 +1,5 @@
  .## Aryan Safari
-![Image of Yaktocat](http://louderthanwar.com/wp-content/uploads/2015/12/guns-n-roses.jpg)
-
+![Image of Yaktocat](https://github.com/arrarose/Resume/blob/master/ar.png)
 
 
 This is my favorit band and how I have this name :smiling_imp: :smiling_imp:
