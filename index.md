@@ -1,25 +1,28 @@
- .## Aryan Safari
+ 
 ![Image of Yaktocat](https://github.com/arrarose/Resume/blob/master/ar.png)
 
+.## Aryan Safari  :smiling_imp: :smiling_imp:
 
-This is my favorit band and how I have this name :smiling_imp: :smiling_imp:
-
-### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/) 
-
+ ### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/) 
 
 ### Skill
-C programing, Java
+C programing, Java, AutoCad, GIS, Excell
 
-```Education: Computer Science majpor and still working on that
-Computer Science majpor and still working on that
+```Education: Bachelor degree of Urban Engineering
+
+Current Computer Science(college)
+
 
 ##  Edjucation Exprenience
 Currently working in bachlelor in CS and attending in Palomar and MiraCosta College.
 ### Work Exprience: 
-Work in JC-Penney 2 years in Northroom mall and currently I work at Walmart in Poway
+Woked as a researcher in Urban engineering filed( subject how to grow a specifi zone)
+
+Work in JC-Penney 2014-2016 in Northroom mall 
+Current: Work in Walmart supercenter in Poway
 
 ### Goal
-right now my goal is to finish my bachelor in CS and after that I want to apply for master degree and at the end I want to have my own company and creat my very special program or language the no one tried before.
+right now my goal is to finish my bachelor in CS and after that I want to apply for master degree and at the end I want to have my own company and creat my very special program or language that no one tried before.
 
 ### My Email: Arrarose@gmail.com
 ### phone: (858)208-6286
