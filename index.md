@@ -1,4 +1,4 @@
-
+ 
 ![Image of Yaktocat](https://github.com/arrarose/Resume/blob/master/ar.png)
 
 ## Aryan Safari  :smiling_imp: :smiling_imp:
@@ -8,11 +8,11 @@
 ### Skill
 C programing, Java, AutoCad, GIS, Excell
 
-###Education:
+## Education
 
-Bachelor degree of Urban Engineering
+Bachelor degree of Urban Engineering.
 
-Current Computer Science(college)
+Current Computer Science(college).
 
 
 ## Edjucation Exprenience
