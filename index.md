@@ -5,8 +5,7 @@ You can use the [editor on GitHub]() to maintain and preview the content for you
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/) ![Image of Yaktocat(https://github.com/nerychapeton/resume/blob/master/linkedin-icon.png)
-
+### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/) 
 
 
 ### Skill
@@ -34,7 +33,7 @@ right now my goal is to finish my bachelor in CS and after that I want to apply 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.google.com/search?q=aryan+safari&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi02M6IpM_ZAhUIxmMKHR-OByoQ_AUICigB&biw=1600&bih=783#imgrc=1cPncjlh41DpgM:)
+[Link](url) and ![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
