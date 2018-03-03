@@ -8,12 +8,14 @@
 ### Skill
 C programing, Java, AutoCad, GIS, Excell
 
-```Education: Bachelor degree of Urban Engineering
+###Education:
+
+Bachelor degree of Urban Engineering
 
 Current Computer Science(college)
 
 
-##  Edjucation Exprenience
+## Edjucation Exprenience
 Currently working in bachlelor in CS and attending in Palomar and MiraCosta College.
 ### Work Exprience: 
 Woked as a researcher in Urban engineering filed( subject how to grow a specifi zone)
