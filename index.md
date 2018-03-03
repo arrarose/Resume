@@ -1,7 +1,7 @@
  .## Aryan Safari
 ![Image of Yaktocat](http://louderthanwar.com/wp-content/uploads/2015/12/guns-n-roses.jpg)
 
-You can use the [editor on GitHub]() to maintain and preview the content for your website in Markdown files.
+This is my favorit band and how I have this name :smiling_imp: :smiling_imp:
 
 ### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/) 
 
