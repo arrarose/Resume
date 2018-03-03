@@ -1,5 +1,5 @@
 .## Aryan Safari
-![Image of Yaktocat](https://www.google.com/search?q=metallica&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjX9fq6p8_ZAhUC1WMKHVo1DzoQ_AUIDCgD&biw=1600&bih=783#imgrc=AlC_h1yNUC-wdM:)
+![Image of Yaktocat](http://louderthanwar.com/wp-content/uploads/2015/12/guns-n-roses.jpg)
 
 You can use the [editor on GitHub]() to maintain and preview the content for your website in Markdown files.
 
