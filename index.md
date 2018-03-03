@@ -21,6 +21,7 @@ Currently working in bachlelor in CS and attending in Palomar and MiraCosta Coll
 Woked as a researcher in Urban engineering filed( subject how to grow a specifi zone)
 
 Work in JC-Penney 2014-2016 in Northroom mall 
+
 Current: Work in Walmart supercenter in Poway
 
 ### Goal
