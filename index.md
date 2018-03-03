@@ -1,4 +1,4 @@
-## Aryan Safari
+.## Aryan Safari
 
 You can use the [editor on GitHub](https://github.com/arrarose/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -16,9 +16,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Computer Science majpor and still working on that
 
 # Header 1
-## Exprenience
-Currently working in bachlelor in CS and attending in Palomar and MiraCosta College
-### Header 3
+##  Edjucation Exprenience
+Currently working in bachlelor in CS and attending in Palomar and MiraCosta College.
+### Work Exprience: 
+Work in JC-Penney 2 years in Northroom mall and currently I work at Walmart in Poway
+
+### Goal
+To have my own company as programmer and contract with well known company
 
 - Bulleted
 - List
