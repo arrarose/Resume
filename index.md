@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/)
 
+
+### Skill
+C programing, Java
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```Education: Computer Science majpor and still working on that
