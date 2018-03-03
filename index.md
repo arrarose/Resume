@@ -1,4 +1,4 @@
- 
+
 ![Image of Yaktocat](https://github.com/arrarose/Resume/blob/master/ar.png)
 
 ## Aryan Safari  :smiling_imp: :smiling_imp:
