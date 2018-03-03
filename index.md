@@ -1,11 +1,12 @@
-.## Aryan Safari
+ .## Aryan Safari
 ![Image of Yaktocat](http://louderthanwar.com/wp-content/uploads/2015/12/guns-n-roses.jpg)
 
 You can use the [editor on GitHub]() to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/)
+### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/) ![Image of Yaktocat(https://github.com/nerychapeton/resume/blob/master/linkedin-icon.png)
+
 
 
 ### Skill
