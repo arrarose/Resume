@@ -1,7 +1,7 @@
 .## Aryan Safari
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-You can use the [editor on GitHub](https://github.com/arrarose/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjVkoPLp8_ZAhUK32MKHeWPCEkQjRx6BAgAEAY&url=https%3A%2F%2Fwww.sltrib.com%2Fartsliving%2Fmusic%2F2018%2F02%2F26%2Fmetallica-coming-to-salt-lake-city%2F&psig=AOvVaw1dBZbQ3FAVQ2-wxlETZa8R&ust=1520137461437607) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
