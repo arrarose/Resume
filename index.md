@@ -16,7 +16,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Computer Science majpor and still working on that
 
 # Header 1
-## Header 2
+## Exprenience
+Currently working in bachlelor in CS and attending in Palomar and MiraCosta College
 ### Header 3
 
 - Bulleted
