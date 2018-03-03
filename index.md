@@ -22,7 +22,7 @@ Currently working in bachlelor in CS and attending in Palomar and MiraCosta Coll
 Work in JC-Penney 2 years in Northroom mall and currently I work at Walmart in Poway
 
 ### Goal
-To have my own company as programmer and contract with well known company
+right now my goal is to finish my bachelor in CS and after that I want to apply for master degree and at the end I want to have my own company and creat my very special program or language the no one tried before.
 
 - Bulleted
 - List
@@ -32,7 +32,7 @@ To have my own company as programmer and contract with well known company
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.google.com/search?q=aryan+safari&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi02M6IpM_ZAhUIxmMKHR-OByoQ_AUICigB&biw=1600&bih=783#imgrc=1cPncjlh41DpgM:)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
