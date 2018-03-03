@@ -1,5 +1,5 @@
  
-![Image of Yaktocat](https://github.com/arrarose/Resume/blob/master/ar.png)
+![Image of Yaktocat](https://github.com/arrarose/Resume/blob/master/ar2.jpg)
 
 ## Aryan Safari  :smiling_imp: :smiling_imp:
 
