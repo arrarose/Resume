@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/arrarose/Resume/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Contact Info: https://www.linkedin.com/in/aryan-safari-b014b985/
+### Contact Info: [link to Google!](https://www.linkedin.com/in/aryan-safari-b014b985/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
