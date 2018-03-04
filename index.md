@@ -1,31 +1,37 @@
- 
 ![Image of Yaktocat](ar2.jpg)
 
-## Aryan Safari  :smiling_imp: :smiling_imp:
+## Aryan Safari 
 
 ### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/)  ![Image of Yaktocat](linkedin.png)
 
 ### Skill
-C programing, Java, AutoCad, GIS, Excell
+
+C programing, Java, AutoCAD, GIS, Excell
 
 ## Education
 
-Bachelor degree of Urban Engineering.
+Bachelor degree in Urban Engineering.
 
-Current Computer Science(college).
+Current Computer Science(College).
 
 
-## Edjucation Exprenience
-Currently working in bachlelor in CS and attending in Palomar and MiraCosta College.
-### Work Exprience: 
-Woked as a researcher in Urban engineering filed( subject how to grow a specifi zone)
+## Education Experience
 
-Work in JC-Penney 2014-2016 in Northroom mall 
+Thesis Urban Engineering: (City Night Life)
 
-Current: Work in Walmart supercenter in Poway
+Currently working in bachelor in CS and attending in Palomar and MiraCosta College.
+
+### Work Experience: 
+
+Researcher in Urban engineering field: Subject how to grow a specific zone, and how to enhance the performance of organic regions.
+
+Work in JC-Penney (2014-2016)
+
+Current: Work in Walmart Supercenter in Poway
 
 ### Goal
-right now my goal is to finish my bachelor in CS and after that I want to apply for master degree and at the end I want to have my own company and creat my very special program or language that no one tried before.
+
+right now my goal is to finish my bachelor in CS and after that, I want to apply for master degree and at the end, I want to have my own company and create my very special program or language that no one tried before.
 
 ### My Email: Arrarose@gmail.com
 ### phone: (858)208-6286
