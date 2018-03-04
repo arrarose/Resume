@@ -3,7 +3,7 @@
 
 ## Aryan Safari  :smiling_imp: :smiling_imp:
 
-### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/) 
+### Contact Info: [Linkdin](https://www.linkedin.com/in/aryan-safari-b014b985/)  ![Image of Yaktocat](linkedin.png)
 
 ### Skill
 C programing, Java, AutoCad, GIS, Excell
