@@ -31,7 +31,7 @@ Current: Work in Walmart Supercenter in Poway
 
 ### Goal
 
-right now my goal is to finish my bachelor in CS and after that, I want to apply for master degree and at the end, I want to have my own company and create my very special program or language that no one tried before.
+Finish My Bachelor Degree
 
 ### My Email: Arrarose@gmail.com
 ### phone: (858)208-6286
